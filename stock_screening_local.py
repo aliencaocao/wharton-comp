@@ -81,6 +81,7 @@ def EBIT(ticker: str, latest: bool = True, period: int = -1):
             yahoo_api_get_financials_quarterly(ticker)['quarterlyNetInterestIncome'][period]['reportedValue']['raw']
     return r
 
+
 @return_None_on_error
 def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -106,6 +107,7 @@ def interest_expense(ticker: str, latest: bool = True, period: int = -1):
     if i is None:
         i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalOtherFinanceCost'][period]['reportedValue']['raw'])
     return i
+
 
 @return_None_on_error
 def operating_income(ticker: str, latest: bool = True, period: int = -1):
