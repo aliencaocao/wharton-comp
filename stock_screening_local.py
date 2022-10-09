@@ -77,15 +77,18 @@ def EBIT(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     r = yahoo_api_get_financials_quarterly(ticker)['quarterlyEBIT'][period]['reportedValue']['raw']
     if r is None:
-        return None  # TODO: alternate ways to calculate EBIT
-    else:
-        return r
-
+        r = yahoo_api_get_financials_quarterly(ticker)['quarterlyPretaxIncome'][period]['reportedValue']['raw'] + \
+            yahoo_api_get_financials_quarterly(ticker)['quarterlyNetInterestIncome'][period]['reportedValue']['raw']
+    return r
 
 @return_None_on_error
 def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
+    e = EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
+    if e is None:
+        e = yahoo_api_get_financials_quarterly(ticker)['quarterlyNormalizedEBITDA'][period]['reportedValue']['raw'] + \
+            yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalUnusualItems'][period]['reportedValue']['raw']
+    return e
 
 
 @return_None_on_error
@@ -97,8 +100,12 @@ def depreciation(ticker: str, latest: bool = True, period: int = -1):
 @return_None_on_error
 def interest_expense(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpense'][period]['reportedValue']['raw'])
-
+    i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpense'][period]['reportedValue']['raw'])
+    if i is None:
+        i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpenseNonOperating'][period]['reportedValue']['raw'])
+    if i is None:
+        i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalOtherFinanceCost'][period]['reportedValue']['raw'])
+    return i
 
 @return_None_on_error
 def operating_income(ticker: str, latest: bool = True, period: int = -1):
@@ -203,7 +210,10 @@ def invested_capital(ticker: str, latest: bool = True, period: int = -1):
 @return_None_on_error
 def operating_cash_flow(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return yahoo_api_get_cashflow_quarterly(ticker)['quarterlyOperatingCashFlow'][period]['reportedValue']['raw']
+    ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyOperatingCashFlow'][period]['reportedValue']['raw']
+    if ocf is None:
+        ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyCashFlowsfromusedinOperatingActivitiesDirect'][period]['reportedValue']['raw']
+    return ocf
 
 
 @return_None_on_error
