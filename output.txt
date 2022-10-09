@@ -1,0 +1,2305 @@
+0 000002.SZ
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+1 000333.SZ
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+2 000858.SZ
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+3 002142.SZ
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+4 002415.SZ
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+5 0267.HK
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+6 0384.HK
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+7 0700.HK
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+8 0914.HK
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+9 0939.HK
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+10 0941.HK
+current_debt: Key not found: 'quarterlyCurrentDebt'
+11 2318.HK
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+12 300760.SZ
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+13 3311.HK
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+14 3690.HK
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+15 600007.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+16 600009.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+17 600276.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+18 600519.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+19 600900.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+20 601138.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+21 601888.SS
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+22 AAL
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+23 AAPL
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+24 ABBV
+24 ABBV PASSED!
+25 ABEV3.SA
+25 ABEV3.SA PASSED!
+26 ABT
+26 ABT PASSED!
+27 AC.TO
+27 AC.TO PASSED!
+28 ACB.TO
+28 ACB.TO PASSED!
+29 ACH
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+30 ACHC
+30 ACHC PASSED!
+31 ADBE
+inventory: Key not found: 'quarterlyInventory'
+32 AEO
+current_debt: Key not found: 'quarterlyCurrentDebt'
+33 AEP
+33 AEP PASSED!
+34 AFL
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+35 ALL
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+36 AMC
+36 AMC PASSED!
+37 AMD
+37 AMD PASSED!
+38 AMGN
+38 AMGN PASSED!
+39 AMN
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+40 AMTX
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+41 AMZN
+current_debt: Key not found: 'quarterlyCurrentDebt'
+42 ANET
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+43 ANF
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+44 APAM
+inventory: Key not found: 'quarterlyInventory'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+45 APD
+45 APD PASSED!
+46 APTV
+46 APTV PASSED!
+47 ARCB
+inventory: Key not found: 'quarterlyInventory'
+48 ASGN
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+49 ASH
+50 ASIANPAINT.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+51 ASTRAMICRO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+52 ATD.TO
+52 ATD.TO PASSED!
+53 ATUL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+54 ATVI
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+55 AUROPHARMA.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+56 AV.L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+57 AVGO
+57 AVGO PASSED!
+58 AWK
+58 AWK PASSED!
+59 AXISBANK.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+60 AXP
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+61 AZN.L
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+62 AZO
+63 B3SA3.SA
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+64 BA
+64 BA PASSED!
+65 BABA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+66 BAC
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+67 BAJAJ-AUTO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+68 BAJAJFINSV.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+69 BAM
+69 BAM PASSED!
+70 BATAINDIA.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+71 BAX
+71 BAX PASSED!
+72 BBAS3.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+73 BBBY
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+74 BBD-B.TO
+current_debt: Key not found: 'quarterlyCurrentDebt'
+75 BBDC3.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+76 BBSE3.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+77 BBW
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+78 BBY
+78 BBY PASSED!
+79 BCE.TO
+79 BCE.TO PASSED!
+80 BCS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+81 BECN
+81 BECN PASSED!
+82 BEN
+inventory: Key not found: 'quarterlyInventory'
+83 BERGEPAINT.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+84 BHARTIARTL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+85 BHEL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+86 BHP.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+87 BIDU
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+88 BILL
+inventory: Key not found: 'quarterlyInventory'
+89 BLK
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+90 BMY
+90 BMY PASSED!
+91 BNED
+91 BNED PASSED!
+92 BNFT
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+93 BNS.TO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+94 BNZL.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+95 BOSCHLTD.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+96 BP
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+97 BPAC11.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+98 BRFS3.SA
+98 BRFS3.SA PASSED!
+99 BRML3.SA
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+100 BT-A.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+101 BURL
+101 BURL PASSED!
+102 BWA
+102 BWA PASSED!
+103 BX
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+104 BYD.TO
+104 BYD.TO PASSED!
+105 C
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+106 CAAS
+106 CAAS PASSED!
+107 CAKE
+current_debt: Key not found: 'quarterlyCurrentDebt'
+108 CAR.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+109 CASY
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+110 CAT
+110 CAT PASSED!
+111 CCJ
+current_debt: Key not found: 'quarterlyCurrentDebt'
+112 CCL.L
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+113 CCRO3.SA
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+114 CEA
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+115 CHNR
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+116 CIEL3.SA
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+117 CIPLA.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+118 CJT.TO
+current_debt: Key not found: 'quarterlyCurrentDebt'
+119 CL
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+120 CLIG.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+121 CLR
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+122 CLW
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+123 CMCSA
+inventory: Key not found: 'quarterlyInventory'
+124 CMG
+current_debt: Key not found: 'quarterlyCurrentDebt'
+125 CNC
+inventory: Key not found: 'quarterlyInventory'
+126 CNI
+126 CNI PASSED!
+127 CNQ.TO
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+128 COALINDIA.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+129 COST
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+130 CP
+130 CP PASSED!
+131 CPB
+132 CPFE3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+133 CPG.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+134 CPRX
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+135 CRFB3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+136 CRM
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+137 CS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+138 CSAN3.SA
+138 CSAN3.SA PASSED!
+139 CSCO
+139 CSCO PASSED!
+140 CSII
+current_debt: Key not found: 'quarterlyCurrentDebt'
+141 CSNA3.SA
+141 CSNA3.SA PASSED!
+142 CSU.TO
+142 CSU.TO PASSED!
+143 CTSH
+inventory: Key not found: 'quarterlyInventory'
+144 CTVA
+144 CTVA PASSED!
+145 CU.TO
+145 CU.TO PASSED!
+146 CVS
+146 CVS PASSED!
+147 CVX
+147 CVX PASSED!
+148 CWB.TO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+149 CYD
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+150 CZR
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+151 D
+152 DAL
+153 DB
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+154 DBX
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+155 DE
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+156 DEO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+157 DFS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+158 DG
+158 DG PASSED!
+159 DIS
+159 DIS PASSED!
+160 DJCO
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+161 DLR
+inventory: Key not found: 'quarterlyInventory'
+162 DLTR
+current_debt: Key not found: 'quarterlyCurrentDebt'
+163 DOC
+inventory: Key not found: 'quarterlyInventory'
+164 DOL.TO
+164 DOL.TO PASSED!
+165 DOM.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+166 DRREDDY.BO
+166 DRREDDY.BO PASSED!
+167 DSCV.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+168 DXC
+inventory: Key not found: 'quarterlyInventory'
+169 ECLERX.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+170 EDR
+inventory: Key not found: 'quarterlyInventory'
+171 EDU
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+172 EGIE3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+173 EL
+173 EL PASSED!
+174 ELET3.SA
+174 ELET3.SA PASSED!
+175 EMBR3.SA
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+176 EMN
+176 EMN PASSED!
+177 ENB
+177 ENB PASSED!
+178 ENDP
+178 ENDP PASSED!
+179 ENGH.TO
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+180 EQTL3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+181 ET
+181 ET PASSED!
+182 ETSY
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+183 EXPN.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+184 EXR
+inventory: Key not found: 'quarterlyInventory'
+185 EZJ.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+186 F
+186 F PASSED!
+187 FCN
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+188 FCX
+189 FE
+189 FE PASSED!
+190 FERG.L
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+191 FFH.TO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+192 FFHL
+192 FFHL PASSED!
+193 FICO
+inventory: Key not found: 'quarterlyInventory'
+194 FIZZ
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+195 FL
+195 FL PASSED!
+196 FMC
+196 FMC PASSED!
+197 FTNT
+198 FTS
+198 FTS PASSED!
+199 GAIL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+200 GAPB.MX
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+201 GBCI
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+202 GD
+203 GE
+203 GE PASSED!
+204 GEG
+204 GEG PASSED!
+205 GEO
+inventory: Key not found: 'quarterlyInventory'
+206 GILD
+206 GILD PASSED!
+207 GIPCL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+208 GIS
+209 GLEN.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+210 GM
+210 GM PASSED!
+211 GMAB
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+212 GMED
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+213 GODREJAGRO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+214 GODREJCP.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+215 GOGO
+215 GOGO PASSED!
+216 GOOG
+current_debt: Key not found: 'quarterlyCurrentDebt'
+217 GOOS.TO
+217 GOOS.TO PASSED!
+218 GPS
+219 GRANULES.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+220 GRMN
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+221 GRPN
+inventory: Key not found: 'quarterlyInventory'
+222 GS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+223 GSK
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+224 GWO.TO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+225 H
+225 H PASSED!
+226 HAS
+226 HAS PASSED!
+227 HBIO
+227 HBIO PASSED!
+228 HCLTECH.BO
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+229 HD
+229 HD PASSED!
+230 HDFC.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+231 HDFCBANK.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+232 HEROMOTOCO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+233 HES
+234 HIBB
+234 HIBB PASSED!
+235 HINDALCO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+236 HINDUNILVR.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+237 HMC
+237 HMC PASSED!
+238 HOG
+238 HOG PASSED!
+239 HRB
+inventory: Key not found: 'quarterlyInventory'
+240 HSBA.L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+241 HSW.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+242 HSY
+242 HSY PASSED!
+243 HTLD
+inventory: Key not found: 'quarterlyInventory'
+244 HYPE3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+245 ICE
+inventory: Key not found: 'quarterlyInventory'
+246 ICICIBANK.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+247 IHG.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+248 ILMN
+248 ILMN PASSED!
+249 IMAX
+250 INFY.BO
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+251 INTC
+251 INTC PASSED!
+252 IOSP
+current_debt: Key not found: 'quarterlyCurrentDebt'
+253 IQV
+inventory: Key not found: 'quarterlyInventory'
+254 IRBR3.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+255 IRM
+inventory: Key not found: 'quarterlyInventory'
+256 ITC.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+257 JBLU
+257 JBLU PASSED!
+258 JBSS3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+259 JJSF
+current_debt: Key not found: 'quarterlyCurrentDebt'
+260 JMAT.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+261 JNJ
+261 JNJ PASSED!
+262 JPM
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+263 JUBLFOOD.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+264 JUSTDIAL.BO
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+265 K
+265 K PASSED!
+266 KALU
+current_debt: Key not found: 'quarterlyCurrentDebt'
+267 KDP
+268 KEY
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+269 KKR
+inventory: Key not found: 'quarterlyInventory'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+270 KLBN11.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+271 KMI
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+272 KMX
+272 KMX PASSED!
+273 KO
+273 KO PASSED!
+274 KOTAKBANK.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+275 KWR
+275 KWR PASSED!
+276 L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+277 LAM.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+278 LAZ
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+279 LCII
+279 LCII PASSED!
+280 LE
+280 LE PASSED!
+281 LLOY.L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+282 LMT
+283 LOOK.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+284 LOW
+285 LREN3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+286 LT.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+287 LULU
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+288 LUV
+288 LUV PASSED!
+289 LVS
+289 LVS PASSED!
+290 LYFT
+inventory: Key not found: 'quarterlyInventory'
+291 M
+292 M&M.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+293 MA
+inventory: Key not found: 'quarterlyInventory'
+294 MANH
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+295 MAR
+inventory: Key not found: 'quarterlyInventory'
+296 MARUTI.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+297 MAT
+297 MAT PASSED!
+298 MCD
+299 MCK
+299 MCK PASSED!
+300 MCO
+inventory: Key not found: 'quarterlyInventory'
+301 MCRO.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+302 MDC.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+303 MDIA3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+304 MET
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+305 META
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+306 MFSL.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+307 MGLU3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+308 MIDD
+308 MIDD PASSED!
+309 MINDTREE.BO
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+310 MKC
+310 MKC PASSED!
+311 MMAT
+311 MMAT PASSED!
+312 MNDI.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+313 MNST
+current_debt: Key not found: 'quarterlyCurrentDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+total_debt: Key not found: 'quarterlyTotalDebt'
+314 MOV
+current_debt: Key not found: 'quarterlyCurrentDebt'
+315 MRK
+315 MRK PASSED!
+316 MS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+317 MSEX
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+318 MSFT
+318 MSFT PASSED!
+319 MTB
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+320 MTCH
+inventory: Key not found: 'quarterlyInventory'
+321 MULT3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+322 MYGN
+current_debt: Key not found: 'quarterlyCurrentDebt'
+323 NCLH
+323 NCLH PASSED!
+324 NCTY
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+325 NESTLEIND.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+326 NFG
+326 NFG PASSED!
+327 NFLX
+inventory: Key not found: 'quarterlyInventory'
+328 NGS
+current_debt: Key not found: 'quarterlyCurrentDebt'
+329 NIITLTD.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+330 NKE
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+331 NOC
+331 NOC PASSED!
+332 NOV
+332 NOV PASSED!
+333 NTCO3.SA
+333 NTCO3.SA PASSED!
+334 NTES
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+335 NTIC
+335 NTIC PASSED!
+336 NTPC.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+337 NTR
+337 NTR PASSED!
+338 NVDA
+338 NVDA PASSED!
+339 NVS
+339 NVS PASSED!
+340 NWG.L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+341 NXPI
+342 NXT.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+343 OKE
+343 OKE PASSED!
+344 ONB
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+345 ONGC.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+346 OPY
+inventory: Key not found: 'quarterlyInventory'
+347 ORCL
+inventory: Key not found: 'quarterlyInventory'
+348 ORLY
+current_debt: Key not found: 'quarterlyCurrentDebt'
+349 OTB.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+350 OZK
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+351 PBH
+352 PCAR
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+353 PCG
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+354 PEL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+355 PEP
+355 PEP PASSED!
+356 PETR3.SA
+356 PETR3.SA PASSED!
+357 PFE
+357 PFE PASSED!
+358 PG
+358 PG PASSED!
+359 PKX
+359 PKX PASSED!
+360 PLNT
+360 PLNT PASSED!
+361 PLOW
+361 PLOW PASSED!
+362 PNC
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+363 POWERGRID.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+364 PRU
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+365 PSA
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+366 PSON.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+367 PSSA3.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+368 PSX
+368 PSX PASSED!
+369 PTON
+369 PTON PASSED!
+370 PTR
+370 PTR PASSED!
+371 PYPL
+inventory: Key not found: 'quarterlyInventory'
+372 PZZA
+current_debt: Key not found: 'quarterlyCurrentDebt'
+373 QCOM
+373 QCOM PASSED!
+374 QSR.TO
+374 QSR.TO PASSED!
+375 RAD
+375 RAD PASSED!
+376 RADL3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+377 RAIL3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+378 RBA
+378 RBA PASSED!
+379 RCI
+379 RCI PASSED!
+380 RECLTD.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+381 REGN
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+382 RELIANCE.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+383 RENT3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+384 REV
+384 REV PASSED!
+385 RF
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+386 RGLD
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+387 RIO.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+388 RKT.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+389 RMV.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+390 ROCK
+current_debt: Key not found: 'quarterlyCurrentDebt'
+391 ROLL
+391 ROLL PASSED!
+392 RR.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+393 RTX
+393 RTX PASSED!
+394 RY.TO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+395 SANB11.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+396 SAP
+inventory: Key not found: 'quarterlyInventory'
+397 SAVE
+inventory: Key not found: 'quarterlyInventory'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+398 SBIN.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+399 SBRY.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+400 SBSP3.SA
+401 SBUX
+401 SBUX PASSED!
+402 SDR.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+403 SEIC
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+404 SFIX
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+405 SFM
+current_debt: Key not found: 'quarterlyCurrentDebt'
+406 SGE.L
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+407 SHOP.TO
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+408 SIRI
+current_debt: Key not found: 'quarterlyCurrentDebt'
+409 SJVN.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+410 SJW
+inventory: Key not found: 'quarterlyInventory'
+411 SKYW
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+412 SMIN.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+413 SN.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+414 SNA
+414 SNA PASSED!
+415 SNOW
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+416 SNP
+416 SNP PASSED!
+417 SO
+417 SO PASSED!
+418 SOHU
+inventory: Key not found: 'quarterlyInventory'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+debt_service_coverage_ratio: ZeroDivisionError: float division by zero
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+419 SONY
+419 SONY PASSED!
+420 SPOT
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+421 SRE
+421 SRE PASSED!
+422 SSE.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+423 STAN.L
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+424 SU.TO
+424 SU.TO PASSED!
+425 SULA11.SA
+current_assets: Key not found: 'quarterlyCurrentAssets'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+426 SUN
+427 SUNPHARMA.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+428 SUZB3.SA
+428 SUZB3.SA PASSED!
+429 SVT.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+430 SWBI
+current_debt: Key not found: 'quarterlyCurrentDebt'
+431 SYY
+431 SYY PASSED!
+432 T
+432 T PASSED!
+433 TAL
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+debt_service_coverage_ratio: ZeroDivisionError: float division by zero
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+434 TAP
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+435 TATAMOTORS.BO
+435 TATAMOTORS.BO PASSED!
+436 TATAPOWER.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+437 TATASTEEL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+438 TCS
+438 TCS PASSED!
+439 TCS.BO
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+440 TECHM.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+441 TEVA
+441 TEVA PASSED!
+442 TGT
+443 THS
+443 THS PASSED!
+444 TITAN.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+445 TJX
+445 TJX PASSED!
+446 TLW.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+447 TM
+448 TR
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+449 TREX
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+450 TROW
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+451 TRP
+451 TRP PASSED!
+452 TSLA
+452 TSLA PASSED!
+453 TSM
+453 TSM PASSED!
+454 TSN
+454 TSN PASSED!
+455 TU
+455 TU PASSED!
+456 TWI
+456 TWI PASSED!
+457 TWTR
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+458 TXN
+458 TXN PASSED!
+459 TXRH
+current_debt: Key not found: 'quarterlyCurrentDebt'
+460 UAA
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+461 UBER
+inventory: Key not found: 'quarterlyInventory'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+462 UBS
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+463 UGI
+463 UGI PASSED!
+464 UGPA3.SA
+464 UGPA3.SA PASSED!
+465 UL
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+466 ULTA
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+467 ULTRACEMCO.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+468 ULVR.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+469 UNFI
+469 UNFI PASSED!
+470 UNH
+inventory: Key not found: 'quarterlyInventory'
+471 URBN
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+472 UTSI
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+473 UU.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+474 V
+inventory: Key not found: 'quarterlyInventory'
+475 VALE3.SA
+475 VALE3.SA PASSED!
+476 VEDL.BO
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+477 VEEV
+inventory: Key not found: 'quarterlyInventory'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+current_debt: Key not found: 'quarterlyCurrentDebt'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+478 VEON
+current_debt: Key not found: 'quarterlyCurrentDebt'
+479 VFC
+479 VFC PASSED!
+480 VOD.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+481 VRA
+current_debt: Key not found: 'quarterlyCurrentDebt'
+482 VRSK
+inventory: Key not found: 'quarterlyInventory'
+483 VYNT
+484 VZ
+484 VZ PASSED!
+485 WBA
+485 WBA PASSED!
+486 WDFC
+486 WDFC PASSED!
+487 WEGE3.SA
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+488 WEN
+488 WEN PASSED!
+489 WFC
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+EBIT: Key not found: 'quarterlyEBIT'
+490 WH
+inventory: Key not found: 'quarterlyInventory'
+491 WIPRO.BO
+491 WIPRO.BO PASSED!
+492 WMT
+492 WMT PASSED!
+493 WNC
+current_debt: Key not found: 'quarterlyCurrentDebt'
+494 WSM
+current_debt: Key not found: 'quarterlyCurrentDebt'
+495 WTB.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+496 WYN.L
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+interest_expense: Key not found: 'quarterlyInterestExpense'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+497 X
+497 X PASSED!
+498 XOM
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+499 XRX
+499 XRX PASSED!
+500 YESBANK.BO
+current_assets: Key not found: 'quarterlyCurrentAssets'
+inventory: Key not found: 'quarterlyInventory'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+current_liabilities: Key not found: 'quarterlyCurrentLiabilities'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+operating_income: Key not found: 'quarterlyOperatingIncome'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+EBIT: Key not found: 'quarterlyEBIT'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+501 YORW
+intangible_assets: Key not found: 'quarterlyGoodwillAndOtherIntangibleAssets'
+502 YUM
+inventory: Key not found: 'quarterlyInventory'
+503 ZNH
+operating_cash_flow: Key not found: 'quarterlyOperatingCashFlow'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+504 ZTO
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'
+depreciation: Key not found: 'quarterlyReconciledDepreciation'
+depreciation_and_amortization: Key not found: 'quarterlyDepreciationAmortizationDepletion'

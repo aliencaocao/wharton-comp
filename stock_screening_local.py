@@ -29,6 +29,12 @@ def return_None_on_error(func):
 
 
 def yahoo_api_get_balance_sheet_quarterly(ticker: str):
+    if ticker == 'TATAMOTORS.BO':
+        r = yahoo_api_get_balance_sheet_yearly(ticker)
+        new_r = {}
+        for k, v in r.items():
+            new_r[k.replace('annual', 'quarterly')] = v
+        return new_r
     return ticker_data[ticker.upper()]['quarterly_balance_sheet']
 
 
@@ -37,6 +43,13 @@ def yahoo_api_get_balance_sheet_yearly(ticker: str):
 
 
 def yahoo_api_get_financials_quarterly(ticker: str):
+    if ticker == 'TATAMOTORS.BO':
+        r = yahoo_api_get_financials_yearly(ticker)
+        new_r = {}
+        for k, v in r.items():
+            new_r[k.replace('annual', 'quarterly')] = v
+        return new_r
+
     return ticker_data[ticker.upper()]['quarterly_financials']
 
 
@@ -45,6 +58,12 @@ def yahoo_api_get_financials_yearly(ticker: str):
 
 
 def yahoo_api_get_cashflow_quarterly(ticker: str):
+    if ticker == 'TATAMOTORS.BO':
+        r = yahoo_api_get_cashflow_yearly(ticker)
+        new_r = {}
+        for k, v in r.items():
+            new_r[k.replace('annual', 'quarterly')] = v
+        return new_r
     return ticker_data[ticker.upper()]['quarterly_cashflow']
 
 
@@ -163,6 +182,8 @@ def inventory(ticker: str, latest: bool = True, period: int = -1):
 @return_None_on_error
 def cash(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
+    if ticker == 'TU':
+        return yahoo_api_get_balance_sheet_quarterly(ticker)['quarterlyCashCashEquivalentsAndShortTermInvestments'][period]['reportedValue']['raw']
     return yahoo_api_get_balance_sheet_quarterly(ticker)['quarterlyCashAndCashEquivalents'][period]['reportedValue']['raw']
 
 
