@@ -74,7 +74,6 @@ def yahoo_api_get_cashflow_yearly(ticker: str):
 # Financials
 @return_None_on_error
 def EBIT(ticker: yf.Ticker):
-    # TODO: yfinance is inaccurate, already filed bug report on github
     return yahoo_api_get_financials_quarterly(ticker.ticker)['quarterlyEBIT'][-1]['reportedValue']['raw']
 
 
@@ -105,12 +104,12 @@ def net_income(ticker: yf.Ticker):
 
 @return_None_on_error
 def revenue(ticker: yf.Ticker):
-    return ticker.quarterly_balance_sheet.iloc[:, 0]['Total Revenue']
+    return ticker.quarterly_financials.iloc[:, 0]['Total Revenue']
 
 
 @return_None_on_error
 def cost_of_revenue(ticker: yf.Ticker):
-    return ticker.quarterly_balance_sheet.iloc[:, 0]['Cost Of Revenue']
+    return ticker.quarterly_financials.iloc[:, 0]['Cost Of Revenue']
 
 
 # Balance sheet
