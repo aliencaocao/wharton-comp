@@ -1,6 +1,3 @@
-import yfinance as yf
-import requests
-import time
 import json
 
 with open('ticker_data.json', 'r') as f:
@@ -59,7 +56,11 @@ def yahoo_api_get_cashflow_yearly(ticker: str):
 @return_None_on_error
 def EBIT(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return yahoo_api_get_financials_quarterly(ticker)['quarterlyEBIT'][period]['reportedValue']['raw']
+    r = yahoo_api_get_financials_quarterly(ticker)['quarterlyEBIT'][period]['reportedValue']['raw']
+    if r is None:
+        return None  # TODO: alternate ways to calculate EBIT
+    else:
+        return r
 
 
 @return_None_on_error
