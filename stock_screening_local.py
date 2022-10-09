@@ -72,23 +72,37 @@ def yahoo_api_get_cashflow_yearly(ticker: str):
 
 
 # Financials
-@return_None_on_error
 def EBIT(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    r = yahoo_api_get_financials_quarterly(ticker)['quarterlyEBIT'][period]['reportedValue']['raw']
+    try:
+        r = yahoo_api_get_financials_quarterly(ticker)['quarterlyEBIT'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+        r = None
     if r is None:
-        r = yahoo_api_get_financials_quarterly(ticker)['quarterlyPretaxIncome'][period]['reportedValue']['raw'] + \
-            yahoo_api_get_financials_quarterly(ticker)['quarterlyNetInterestIncome'][period]['reportedValue']['raw']
+        try:
+            r = yahoo_api_get_financials_quarterly(ticker)['quarterlyPretaxIncome'][period]['reportedValue']['raw'] + \
+                yahoo_api_get_financials_quarterly(ticker)['quarterlyNetInterestIncome'][period]['reportedValue']['raw']
+        except KeyError as e:
+            print(e)
+            r = None
     return r
 
 
-@return_None_on_error
 def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    e = EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
+    try:
+        e = EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
+    except KeyError as e:
+        print(e)
+        e = None
     if e is None:
-        e = yahoo_api_get_financials_quarterly(ticker)['quarterlyNormalizedEBITDA'][period]['reportedValue']['raw'] + \
-            yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalUnusualItems'][period]['reportedValue']['raw']
+        try:
+            e = yahoo_api_get_financials_quarterly(ticker)['quarterlyNormalizedEBITDA'][period]['reportedValue']['raw'] + \
+                yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalUnusualItems'][period]['reportedValue']['raw']
+        except KeyError as e:
+            print(e)
+            e = None
     return e
 
 
@@ -98,15 +112,29 @@ def depreciation(ticker: str, latest: bool = True, period: int = -1):
     return yahoo_api_get_financials_quarterly(ticker)['quarterlyReconciledDepreciation'][period]['reportedValue']['raw']
 
 
-@return_None_on_error
 def interest_expense(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpense'][period]['reportedValue']['raw'])
+    try:
+        i = yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpense'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+        i = None
     if i is None:
-        i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpenseNonOperating'][period]['reportedValue']['raw'])
+        try:
+            i = yahoo_api_get_financials_quarterly(ticker)['quarterlyInterestExpenseNonOperating'][period]['reportedValue']['raw']
+        except KeyError as e:
+            print(e)
+            i = None
     if i is None:
-        i = abs(yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalOtherFinanceCost'][period]['reportedValue']['raw'])
-    return i
+        try:
+            i = yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalOtherFinanceCost'][period]['reportedValue']['raw']
+        except KeyError as e:
+            print(e)
+            i = None
+    if i is None:
+        return i
+    else:
+        return abs(i)
 
 
 @return_None_on_error
@@ -209,12 +237,19 @@ def invested_capital(ticker: str, latest: bool = True, period: int = -1):
 
 
 # Cashflow
-@return_None_on_error
 def operating_cash_flow(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyOperatingCashFlow'][period]['reportedValue']['raw']
+    try:
+        ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyOperatingCashFlow'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+        ocf = None
     if ocf is None:
-        ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyCashFlowsfromusedinOperatingActivitiesDirect'][period]['reportedValue']['raw']
+        try:
+            ocf = yahoo_api_get_cashflow_quarterly(ticker)['quarterlyCashFlowsfromusedinOperatingActivitiesDirect'][period]['reportedValue']['raw']
+        except KeyError as e:
+            print(e)
+            ocf = None
     return ocf
 
 
