@@ -83,7 +83,7 @@ def EBIT(ticker: str, latest: bool = True, period: int = -1):
         try:
             r = yahoo_api_get_financials_quarterly(ticker)['quarterlyPretaxIncome'][period]['reportedValue']['raw'] + \
                 yahoo_api_get_financials_quarterly(ticker)['quarterlyNetInterestIncome'][period]['reportedValue']['raw']
-        except KeyError as e:
+        except (KeyError, TypeError) as e:
             print(e)
             r = None
     return r
@@ -92,18 +92,18 @@ def EBIT(ticker: str, latest: bool = True, period: int = -1):
 def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
-        e = EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
-    except KeyError as e:
+        eb = EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
+    except (KeyError, TypeError) as e:
         print(e)
-        e = None
-    if e is None:
+        eb = None
+    if eb is None:
         try:
-            e = yahoo_api_get_financials_quarterly(ticker)['quarterlyNormalizedEBITDA'][period]['reportedValue']['raw'] + \
+            eb = yahoo_api_get_financials_quarterly(ticker)['quarterlyNormalizedEBITDA'][period]['reportedValue']['raw'] + \
                 yahoo_api_get_financials_quarterly(ticker)['quarterlyTotalUnusualItems'][period]['reportedValue']['raw']
-        except KeyError as e:
+        except (KeyError, TypeError) as e:
             print(e)
-            e = None
-    return e
+            eb = None
+    return eb
 
 
 @return_None_on_error
