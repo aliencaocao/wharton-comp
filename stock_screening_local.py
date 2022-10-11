@@ -1,9 +1,7 @@
-import json
+import orjson as json
 
 with open('ticker_data.json', 'r') as f:
-    ticker_data = json.load(f)
-
-missing_fields = {}
+    ticker_data = json.loads(f.read())
 
 
 def return_None_on_error(func):
@@ -15,10 +13,6 @@ def return_None_on_error(func):
                 raise e
             e = str(e).strip(')').strip('KeyError(')
             print(f"{func.__name__}: Key not found: {e}")
-            try:
-                missing_fields[e] += 1
-            except KeyError:
-                missing_fields[e] = 1
             return None
         except TypeError as e:  # silent type error as it is all caused by None which is already reported
             # print(f"{func.__name__}: Type error: {e}")
@@ -186,10 +180,17 @@ def total_assets(ticker: str, latest: bool = True, period: int = -1):
     return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalAssets'][period]['reportedValue']['raw']
 
 
-@return_None_on_error
 def current_assets(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentAssets'][period]['reportedValue']['raw']
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentAssets'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalAssets'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalNonCurrentAssets'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    return None
 
 
 @return_None_on_error
@@ -198,10 +199,17 @@ def total_liabilities(ticker: str, latest: bool = True, period: int = -1):
     return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalLiabilitiesNetMinorityInterest'][period]['reportedValue']['raw']
 
 
-@return_None_on_error
 def current_liabilities(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentLiabilities'][period]['reportedValue']['raw']
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentLiabilities'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalLiabilitiesNetMinorityInterest'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalNonCurrentLiabilitiesNetMinorityInterest'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    return None
 
 
 @return_None_on_error
@@ -210,10 +218,17 @@ def total_debt(ticker: str, latest: bool = True, period: int = -1):
     return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalDebt'][period]['reportedValue']['raw']
 
 
-@return_None_on_error
 def current_debt(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
-    return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentDebt'][period]['reportedValue']['raw']
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentDebt'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    try:
+        return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalDebt'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualLongTermDebt'][period]['reportedValue']['raw']
+    except KeyError as e:
+        print(e)
+    return None
 
 
 @return_None_on_error
@@ -268,7 +283,7 @@ def operating_cash_flow(ticker: str, latest: bool = True, period: int = -1):
     return None
 
 
-def depreciation_and_amortization(ticker: str, latest: bool = True, period: int = -1):  # TODO: try D + A separate
+def depreciation_and_amortization(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualDepreciationAmortizationDepletion'][period]['reportedValue']['raw']
