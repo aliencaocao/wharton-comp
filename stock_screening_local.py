@@ -27,14 +27,19 @@ def return_None_on_error(func):
 def try_get_latest_ratio(func):
     def inner_func(*args, **kwargs):
         period = kwargs['period']
-        if period < 0: period += 4  # convert from negative indexing to positive
-        for i in range(3, -1, -1):
+        if period >= 0: period -= 4  # convert from positive indexing to negative
+        for i in range(period, -5, -1):
+            kwargs['latest'] = False
             kwargs['period'] = i
             try:
                 r = func(*args, **kwargs)
+            except TypeError:
+                print(f'No data for {func.__name__} for period {i}')
             except IndexError:
                 r = None
                 break
+            except Exception as e:
+                print(f'other exception, ticker: {args[0]}', e)
             else:
                 if r is not None:
                     break
@@ -310,7 +315,6 @@ def depreciation_and_amortization(ticker: str, latest: bool = True, period: int 
     return None
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def altman_z_score(ticker, latest: bool = True, period: int = -1):
     x1 = (current_assets(ticker, latest, period) - current_liabilities(ticker, latest, period)) / total_assets(ticker, latest, period)
@@ -323,76 +327,65 @@ def altman_z_score(ticker, latest: bool = True, period: int = -1):
 
 # Ratios
 # Liquidity (higher the better)
-@return_None_on_error
 @try_get_latest_ratio
 def quick_ratio(ticker, latest: bool = True, period: int = -1):  # key
     return (current_assets(ticker, latest, period) - inventory(ticker, latest, period)) / current_liabilities(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def cash_ratio(ticker, latest: bool = True, period: int = -1):
     return cash(ticker, latest, period) / current_liabilities(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def operating_cash_ratio(ticker, latest: bool = True, period: int = -1):
     return operating_cash_flow(ticker, latest, period) / current_liabilities(ticker, latest, period)
 
 
 # Coverage ratios (higher the better)
-@return_None_on_error
 @try_get_latest_ratio
 def interest_coverage_ratio(ticker, latest: bool = True, period: int = -1):
     return EBITDA(ticker, latest, period) / interest_expense(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def debt_service_coverage_ratio(ticker, latest: bool = True, period: int = -1):  # key
     return operating_income(ticker, latest, period) / interest_expense(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def asset_coverage_ratio(ticker, latest: bool = True, period: int = -1):
     return (total_assets(ticker, latest, period) - intangible_assets(ticker, latest, period) - (
                 current_liabilities(ticker, latest, period) - current_debt(ticker, latest, period))) / total_debt(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def cash_coverage_ratio(ticker, latest: bool = True, period: int = -1):
     return (EBIT(ticker, latest, period) + depreciation(ticker, latest, period)) / interest_expense(ticker, latest, period)
 
 
 # Leverage ratios (lower the better)
-@return_None_on_error
 @try_get_latest_ratio
 def total_debt_to_tangible_book_value_ratio(ticker, latest: bool = True, period: int = -1):
     return total_debt(ticker, latest, period) / tangible_book_value(ticker, latest, period)
 
 
-@return_None_on_error
+@try_get_latest_ratio
 def total_debt_to_total_assets_ratio(ticker, latest: bool = True, period: int = -1):  # key
     return total_debt(ticker, latest, period) / total_assets(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def total_debt_to_EBITDA_ratio(ticker, latest: bool = True, period: int = -1):  # key
     return total_debt(ticker, latest, period) / EBITDA(ticker, latest, period)
 
 
 # Piotroski’s F-score
-@return_None_on_error
 @try_get_latest_ratio
 def ROIC(ticker, latest: bool = True, period: int = -1):
     return net_income(ticker, latest, period) / invested_capital(ticker, latest, period)
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_ROIC(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -401,7 +394,6 @@ def delta_ROIC(ticker, latest: bool = True, period: int = -1):
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_total_debt_to_EBITDA(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -410,7 +402,6 @@ def delta_total_debt_to_EBITDA(ticker, latest: bool = True, period: int = -1):
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_total_debt_to_total_asset(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -419,7 +410,6 @@ def delta_total_debt_to_total_asset(ticker, latest: bool = True, period: int = -
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_quick_ratio(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -428,7 +418,6 @@ def delta_quick_ratio(ticker, latest: bool = True, period: int = -1):
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_gross_profit(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -437,7 +426,6 @@ def delta_gross_profit(ticker, latest: bool = True, period: int = -1):
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def delta_revenue_to_total_assets(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
@@ -446,9 +434,9 @@ def delta_revenue_to_total_assets(ticker, latest: bool = True, period: int = -1)
     return new - old
 
 
-@return_None_on_error
 @try_get_latest_ratio
 def F_score(ticker, latest: bool = True, period: int = -1):
+    if latest: period = -1
     score = 0
     # Profitability
     if ROIC(ticker, latest=True, period=period) > 0:
