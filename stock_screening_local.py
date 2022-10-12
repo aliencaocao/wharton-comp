@@ -30,11 +30,16 @@ def try_get_latest_ratio(func):
         if period < 0: period += 4  # convert from negative indexing to positive
         for i in range(3, -1, -1):
             kwargs['period'] = i
-            r = func(*args, **kwargs)
-            if r is not None:
+            try:
+                r = func(*args, **kwargs)
+            except IndexError:
+                r = None
                 break
             else:
-                print(f'No data for {func.__name__} for period {i}')
+                if r is not None:
+                    break
+                else:
+                    print(f'No data for {func.__name__} for period {i}')
         else:  # loop until exhausted
             r = None
         return r
