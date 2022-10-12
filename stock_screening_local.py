@@ -1,4 +1,5 @@
 import orjson as json
+import xueqiu
 
 with open('ticker_data.json', 'r') as f:
     ticker_data = json.loads(f.read())
@@ -100,12 +101,12 @@ def EBIT(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualEBIT'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualPretaxIncome'][period]['reportedValue']['raw'] + \
                yahoo_api_get_financials_yearly(ticker)['annualNetInterestIncome'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -114,7 +115,7 @@ def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualEBITDA'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return EBIT(ticker, latest, period) + depreciation_and_amortization(ticker, latest, period)
@@ -123,7 +124,7 @@ def EBITDA(ticker: str, latest: bool = True, period: int = -1):
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualNormalizedEBITDA'][period]['reportedValue']['raw'] + \
                yahoo_api_get_financials_yearly(ticker)['annualTotalUnusualItems'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -133,11 +134,11 @@ def depreciation(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualReconciledDepreciation'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualDepreciationAmortizationDepletion'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -146,15 +147,15 @@ def interest_expense(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return abs(yahoo_api_get_financials_yearly(ticker)['annualInterestExpense'][period]['reportedValue']['raw'])
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return abs(yahoo_api_get_financials_yearly(ticker)['annualInterestExpenseNonOperating'][period]['reportedValue']['raw'])
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return abs(yahoo_api_get_financials_yearly(ticker)['annualTotalOtherFinanceCost'][period]['reportedValue']['raw'])
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -194,11 +195,11 @@ def current_assets(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentAssets'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalAssets'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalNonCurrentAssets'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -213,11 +214,11 @@ def current_liabilities(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentLiabilities'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalLiabilitiesNetMinorityInterest'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalNonCurrentLiabilitiesNetMinorityInterest'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -232,11 +233,11 @@ def current_debt(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualCurrentDebt'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_balance_sheet_yearly(ticker)['annualTotalDebt'][period]['reportedValue']['raw'] - yahoo_api_get_balance_sheet_yearly(ticker)['annualLongTermDebt'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -284,11 +285,11 @@ def operating_cash_flow(ticker: str, latest: bool = True, period: int = -1):
     if latest: period = -1
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualOperatingCashFlow'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualCashFlowsfromusedinOperatingActivitiesDirect'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -297,20 +298,20 @@ def depreciation_and_amortization(ticker: str, latest: bool = True, period: int 
     if latest: period = -1
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualDepreciationAmortizationDepletion'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualReconciledDepreciation'][period]['reportedValue']['raw'] + \
                yahoo_api_get_cashflow_yearly(ticker)['annualAmortizationOfSecurities'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_financials_yearly(ticker)['annualReconciledDepreciation'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     try:
         return yahoo_api_get_cashflow_yearly(ticker)['annualAmortizationOfSecurities'][period]['reportedValue']['raw']
-    except KeyError as e:
+    except (KeyError, TypeError) as e:
         print(e)
     return None
 
@@ -329,7 +330,11 @@ def altman_z_score(ticker, latest: bool = True, period: int = -1):
 # Liquidity (higher the better)
 @try_get_latest_ratio
 def quick_ratio(ticker, latest: bool = True, period: int = -1):  # key
-    return (current_assets(ticker, latest, period) - inventory(ticker, latest, period)) / current_liabilities(ticker, latest, period)
+    try:
+        return (current_assets(ticker, latest, period) - inventory(ticker, latest, period)) / current_liabilities(ticker, latest, period)
+    except Exception as e:
+        print(e)
+    return xueqiu.quick_ratio(ticker, latest, period)   # this quick ratio function does error handling within it (and returns None if got error), so no need try/except here anymore
 
 
 @try_get_latest_ratio
@@ -376,7 +381,7 @@ def total_debt_to_total_assets_ratio(ticker, latest: bool = True, period: int = 
 
 
 @try_get_latest_ratio
-def total_debt_to_EBITDA_ratio(ticker, latest: bool = True, period: int = -1):  # key
+def total_debt_to_EBITDA_ratio(ticker, latest: bool = True, period: int = -1):
     return total_debt(ticker, latest, period) / EBITDA(ticker, latest, period)
 
 
@@ -434,27 +439,35 @@ def delta_revenue_to_total_assets(ticker, latest: bool = True, period: int = -1)
     return new - old
 
 
-@try_get_latest_ratio
-def F_score(ticker, latest: bool = True, period: int = -1):
+def F_score(ticker, latest: bool = True, period: int = -1):  # allow BOD
     if latest: period = -1
     score = 0
     # Profitability
-    if ROIC(ticker, latest=True, period=period) > 0:
+    roic = ROIC(ticker, latest=True, period=period)
+    if roic is None or roic > 0:
         score += 1
-    if operating_cash_flow(ticker, latest=True, period=period) > 0:
+    ocf = operating_cash_flow(ticker, latest=True, period=period)
+    if ocf is None or ocf > 0:
         score += 1
-    if delta_ROIC(ticker, latest=True, period=period) > 0:
+    droic = delta_ROIC(ticker, latest=True, period=period)
+    if droic is None or droic > 0:
         score += 1
-    if operating_cash_flow(ticker, latest=True, period=period) / invested_capital(ticker, latest=True, period=period) > ROIC(ticker, latest=True, period=period):
+    ocf_to_invested_cap = operating_cash_flow(ticker, latest=True, period=period) / invested_capital(ticker, latest=True, period=period)
+    if ocf_to_invested_cap is None or roic is None or ocf_to_invested_cap > roic:
         score += 1
     # Leverage, Liquidity and Source of Funds
-    if delta_total_debt_to_EBITDA(ticker, latest=True, period=period) > 0 and delta_total_debt_to_total_asset(ticker, latest=True, period=period) < 0:
+    d_debt_to_EDITDA = delta_total_debt_to_EBITDA(ticker, latest=True, period=period)
+    d_debt_to_asset = delta_total_debt_to_total_asset(ticker, latest=True, period=period)
+    if (d_debt_to_EDITDA is None or d_debt_to_EDITDA > 0) and (d_debt_to_asset is None or d_debt_to_asset < 0):
         score += 1
-    if delta_quick_ratio(ticker, latest=True, period=period) > 0:
+    d_quick_ratio = delta_quick_ratio(ticker, latest=True, period=period)
+    if d_quick_ratio is None or d_quick_ratio > 0:
         score += 1
     # Operating Efficiency
-    if delta_gross_profit(ticker, latest=True, period=period) > 0:
+    d_gross_profit = delta_gross_profit(ticker, latest=True, period=period)
+    if d_gross_profit is None or d_gross_profit > 0:
         score += 1
-    if delta_revenue_to_total_assets(ticker, latest=True, period=period) > 0:
+    d_rev_to_asset = delta_revenue_to_total_assets(ticker, latest=True, period=period)
+    if d_rev_to_asset is None or d_rev_to_asset > 0:
         score += 1
     return score
