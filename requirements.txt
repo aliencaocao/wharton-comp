@@ -1,0 +1,9 @@
+selenium
+requests_cache
+yfinance
+requests
+numpy
+pandas
+orjson
+beautifulsoup4
+riskfolio-lib
