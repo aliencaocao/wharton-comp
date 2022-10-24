@@ -1,0 +1,3 @@
+https://www.wolframalpha.com/input?i=%7B%2820000+*+product+1%2Br%2C+i%3D1..14%29+%2B+%2880000+*+product+1%2Br%2C+i%3D6..14%29+-+%28+sum+7500+*+%28+product+1%2Br%2C+j%3Di..14+%29%2C+i%3D6..14+%29%7D++%3E%3D+160458
+{(20000 * product 1+r, i=1..14) + (80000 * product 1+r, i=6..14) - ( sum 7500 * ( product 1+r, j=i..14 ), i=6..14 )}  >= 160458
+Reduce[20000 Product[1 + r, {i, 1, 14}] + 80000 Product[1 + r, {i, 6, 14}] - Sum[7500 Product[1 + r, {j, i, 14}], {i, 6, 14}] >= 160458, r, Reals]
