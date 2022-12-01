@@ -392,10 +392,15 @@ def ROIC(ticker, latest: bool = True, period: int = -1):
 
 
 @try_get_latest_ratio
-def delta_ROIC(ticker, latest: bool = True, period: int = -1):
+def ROA(ticker, latest: bool = True, period: int = -1):
+    return net_income(ticker, latest, period) / total_assets(ticker, latest, period)
+
+
+@try_get_latest_ratio
+def delta_ROA(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
-    old = ROIC(ticker, latest=False, period=0)
-    new = ROIC(ticker, latest=True, period=period)
+    old = ROA(ticker, latest=False, period=period-1)
+    new = ROA(ticker, latest=True, period=period)
     return new - old
 
 
@@ -426,7 +431,7 @@ def delta_quick_ratio(ticker, latest: bool = True, period: int = -1):
 @try_get_latest_ratio
 def delta_gross_profit(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
-    old = yahoo_api_get_financials_yearly(ticker)['annualGrossProfit'][0]['reportedValue']['raw']
+    old = yahoo_api_get_financials_yearly(ticker)['annualGrossProfit'][period-1]['reportedValue']['raw']
     new = yahoo_api_get_financials_yearly(ticker)['annualGrossProfit'][period]['reportedValue']['raw']
     return new - old
 
@@ -434,7 +439,7 @@ def delta_gross_profit(ticker, latest: bool = True, period: int = -1):
 @try_get_latest_ratio
 def delta_revenue_to_total_assets(ticker, latest: bool = True, period: int = -1):
     if latest: period = -1
-    old = revenue(ticker, latest=False, period=0) / total_assets(ticker, latest=False, period=0)
+    old = revenue(ticker, latest=False, period=0) / total_assets(ticker, latest=False, period=period-1)
     new = revenue(ticker, latest=True, period=period) / total_assets(ticker, latest=True, period=period)
     return new - old
 
@@ -445,29 +450,37 @@ def F_score(ticker, latest: bool = True, period: int = -1):  # allow BOD
     # Profitability
     roic = ROIC(ticker, latest=True, period=period)
     if roic is None or roic > 0:
+        print('ROIC pass')
         score += 1
     ocf = operating_cash_flow(ticker, latest=True, period=period)
     if ocf is None or ocf > 0:
+        print('OCF pass')
         score += 1
-    droic = delta_ROIC(ticker, latest=True, period=period)
+    droic = delta_ROA(ticker, latest=True, period=period)
     if droic is None or droic > 0:
+        print('delta ROIC pass')
         score += 1
     ocf_to_invested_cap = operating_cash_flow(ticker, latest=True, period=period) / invested_capital(ticker, latest=True, period=period)
     if ocf_to_invested_cap is None or roic is None or ocf_to_invested_cap > roic:
+        print('OCF/IC pass')
         score += 1
     # Leverage, Liquidity and Source of Funds
     d_debt_to_EDITDA = delta_total_debt_to_EBITDA(ticker, latest=True, period=period)
     d_debt_to_asset = delta_total_debt_to_total_asset(ticker, latest=True, period=period)
     if (d_debt_to_EDITDA is None or d_debt_to_EDITDA > 0) and (d_debt_to_asset is None or d_debt_to_asset < 0):
+        print('Debt/EDITDA pass')
         score += 1
     d_quick_ratio = delta_quick_ratio(ticker, latest=True, period=period)
     if d_quick_ratio is None or d_quick_ratio > 0:
+        print('Quick pass')
         score += 1
     # Operating Efficiency
     d_gross_profit = delta_gross_profit(ticker, latest=True, period=period)
     if d_gross_profit is None or d_gross_profit > 0:
+        print('Gross profit pass')
         score += 1
     d_rev_to_asset = delta_revenue_to_total_assets(ticker, latest=True, period=period)
     if d_rev_to_asset is None or d_rev_to_asset > 0:
+        print('Rev/Asset pass')
         score += 1
     return score
