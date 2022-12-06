@@ -1,0 +1,23 @@
+Disabled,Type,Set,Position,Sign,Weight,Type Relative,Relative Set,Relative
+FALSE,Classes,Industry,Health Care,>=,0.1,Classes,Industry,Industrials
+FALSE,Classes,Industry,Consumer Staples,>=,0.05,Classes,Industry,Consumer Discretionary
+FALSE,Classes,Industry,Information Technology,>=,0.1,Classes,Industry,Consumer Staples
+FALSE,Classes,Country,US,>=,0.1,Classes,Country,India
+FALSE,Assets,,NVDA,>=,0.2,Classes,Industry,Information Technology
+FALSE,Assets,,JPM,>=,0.1,Classes,Industry,Financials
+FALSE,Classes,Country,US,>=,0.5,Classes,Country,Brazil
+FALSE,Classes,Country,US,>=,0.1,Classes,Country,China
+FALSE,Classes,Country,US,>=,0.5,Classes,Country,Canada
+FALSE,Classes,Country,US,>=,0.1,Classes,Country,UK
+FALSE,Classes,Industry,Consumer Staples,>=,0.1,Classes,Industry,Industrials
+FALSE,Classes,Industry,Information Technology,>=,0.1,Classes,Industry,Communication Services
+FALSE,Classes,Industry,Financials,>=,0.1,Classes,Industry,Communication Services
+FALSE,Assets,,NVDA,>=,0.5,Assets,,NTES
+FALSE,Classes,Industry,Information Technology,>=,0.1,Classes,Industry,Health Care
+FALSE,Assets,,CIPLA.BO,>=,0.02,Assets,,PFE
+FALSE,Classes,Industry,Financials,>=,0.05,Classes,Industry,Consumer Staples
+TRUE,Classes,n,Yes,>= ,0.1,Classes,n,No
+TRUE,Classes,c,Yes,>= ,0.08,Classes,c,No
+TRUE,Assets,,NVDA,>=,0.25,Classes,Industry,Communication Services
+FALSE,Assets,,NVDA,>=,0.5,,,
+TRUE,Assets,,NTES,<=,-0.5,,,
