@@ -1,5 +1,5 @@
 import orjson as json
-import xueqiu
+from utils import xueqiu
 
 with open('ticker_data.json', 'r') as f:
     ticker_data = json.loads(f.read())
