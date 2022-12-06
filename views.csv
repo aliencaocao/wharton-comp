@@ -1,4 +1,5 @@
 Disabled,Type,Set,Position,Sign,Weight,Type Relative,Relative Set,Relative
+,,,,,,,,
 FALSE,Classes,Industry,Health Care,>=,0.1,Classes,Industry,Industrials
 FALSE,Classes,Industry,Consumer Staples,>=,0.05,Classes,Industry,Consumer Discretionary
 FALSE,Classes,Industry,Information Technology,>=,0.1,Classes,Industry,Consumer Staples
@@ -16,8 +17,8 @@ FALSE,Assets,,NVDA,>=,0.5,Assets,,NTES
 FALSE,Classes,Industry,Information Technology,>=,0.1,Classes,Industry,Health Care
 FALSE,Assets,,CIPLA.BO,>=,0.02,Assets,,PFE
 FALSE,Classes,Industry,Financials,>=,0.05,Classes,Industry,Consumer Staples
-TRUE,Classes,n,Yes,>= ,0.1,Classes,n,No
-TRUE,Classes,c,Yes,>= ,0.08,Classes,c,No
+TRUE,Classes,n,Yes,>=,0.1,Classes,n,No
+TRUE,Classes,c,Yes,>=,0.08,Classes,c,No
 TRUE,Assets,,NVDA,>=,0.25,Classes,Industry,Communication Services
 FALSE,Assets,,NVDA,>=,0.5,,,
 TRUE,Assets,,NTES,<=,-0.5,,,
